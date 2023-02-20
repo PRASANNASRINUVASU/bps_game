@@ -1,1 +1,1 @@
-# bps_game
+# Stone Paper Scissors_game
